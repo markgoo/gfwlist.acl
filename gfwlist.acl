@@ -7063,4 +7063,4 @@ ultrasurf
 (^|\.)youdao\.com
 (^|\.)zhongsou\.com
 ^ime\.baidu\.jp
-(^|\.)4d4y\.com
+(?:^|\.)4d4y\.com$
